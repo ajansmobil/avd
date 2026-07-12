@@ -1,0 +1,514 @@
+{
+  "path": "page",
+  "data": [
+    {
+      "name": {
+        "tr": "Hakkımızda",
+        "en": "About us",
+        "ar": "معلومات عنا",
+        "de": "Über uns",
+        "ru": "O нас"
+      },
+      "status": "play",
+      "category": "fpfzic54kz",
+      "id": "n874erkdrg",
+      "externalUrl": "",
+      "path": "hakkimizda",
+      "index": 0,
+      "keyword": {
+        "tr": "Hakkımızda",
+        "en": "About us",
+        "ar": "معلومات عنا",
+        "de": "Über uns",
+        "ru": "O нас"
+      },
+      "description": {
+        "tr": "Hakkımızda sayfası",
+        "en": "About us page",
+        "ar": "صفحة معلومات عنا",
+        "de": "Seite über uns",
+        "ru": "Страница о нас"
+      },
+      "spot": {
+        "tr": "Hakkımızda sayfası",
+        "en": "About us page",
+        "ar": "صفحة معلومات عنا",
+        "de": "Seite über uns",
+        "ru": "Страница о нас"
+      },
+      "desc": {},
+      "desing": {
+        "header": [],
+        "body": [
+          "nqvo32",
+          "w1tjqn"
+        ],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "Misyonumuz & Vizyonumuz",
+        "en": "Our Mission & Vision",
+        "ar": "مهمتنا ورؤيتنا",
+        "de": "Unsere Mission und Vision",
+        "ru": "Наша миссия и видение"
+      },
+      "status": "play",
+      "category": "fpfzic54kz",
+      "id": "rzl58qz0lr",
+      "externalUrl": "",
+      "path": "misyonumuz-vizyonumuz",
+      "index": 1,
+      "keyword": {
+        "tr": "Misyonumuz & Vizyonumuz",
+        "en": "Our Mission & Vision",
+        "ar": "مهمتنا ورؤيتنا",
+        "de": "Unsere Mission und Vision",
+        "ru": "Наша миссия и видение"
+      },
+      "description": {
+        "tr": "Proje AVD'nın geliştirilmesine ve büyümesine katkıda bulunmak için misyonumuz var.",
+        "en": "Our mission is to contribute to the development and growth of the AVD project.",
+        "ar": "مهمتنا هي تساهم في تطوير وتنمية مشروع AVD لدينا.",
+        "de": "Unsere Mission besteht darin, zum Wachstum und der Entwicklung des AVD-Projekts beizutragen.",
+        "ru": "Наша миссия заключается в сотрудничестве по развитию и росту проекта AVD."
+      },
+      "spot": {
+        "tr": "Proje AVD'nın geliştirilmesine ve büyümesine katkıda bulunmak için misyonumuz var.",
+        "en": "Our mission is to contribute to the development and growth of the AVD project.",
+        "ar": "مهمتنا هي تساهم في تطوير وتنمية مشروع AVD لدينا.",
+        "de": "Unsere Mission besteht darin, zum Wachstum und der Entwicklung des AVD-Projekts beizutragen.",
+        "ru": "Наша миссия заключается в сотрудничестве по развитию и росту проекта AVD."
+      },
+      "desc": {},
+      "desing": {
+        "header": [],
+        "body": [
+          "nqvo32",
+          "w1tjqn"
+        ],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "Kalite Politikamız",
+        "en": "Our quality policy",
+        "ar": "سياسة الجودة لدينا",
+        "de": "Unsere Qualitätspolitik",
+        "ru": "Наша политика качества"
+      },
+      "status": "play",
+      "category": "fpfzic54kz",
+      "id": "i5sni7ei2z",
+      "externalUrl": "",
+      "path": "kalite-politikamiz",
+      "index": 2,
+      "keyword": {
+        "tr": "Kalite Politikamız, güvenilir, verimli, profesyonel, etik, teknolojik",
+        "en": "Our quality policy, reliable, efficient, professional, ethical, technological",
+        "ar": "سياسة الجودة لدينا، واثق، فعال، مهني، يتحمل مسؤولية العمل، تقني",
+        "de": "Unsere Qualitätspolitik, vertrauenswürdig, effizient, professionell, ethisch, technologisch",
+        "ru": "Наша политика качества, надежная, эффективная, профессиональная, этичная, технологическая"
+      },
+      "description": {
+        "tr": "Kalite Politikamız, güvenilir, verimli, profesyonel, etik, teknolojik",
+        "en": "Our quality policy, reliable, efficient, professional, ethical, technological",
+        "ar": "سياسة الجودة لدينا، واثق، فعال، مهني، يتحمل مسؤولية العمل، تقني",
+        "de": "Unsere Qualitätspolitik, vertrauenswürdig, effizient, professionell, ethisch, technologisch",
+        "ru": "Наша политика качества, надежная, эффективная, профессиональная, этичная, технологическая"
+      },
+      "spot": {
+        "tr": "Kalite Politikamız, güvenilir, verimli, profesyonel, etik, teknolojik",
+        "en": "Our quality policy, reliable, efficient, professional, ethical, technological",
+        "ar": "سياسة الجودة لدينا، واثق، فعال، مهني، يتحمل مسؤولية العمل، تقني",
+        "de": "Unsere Qualitätspolitik, vertrauenswürdig, effizient, professionell, ethisch, technologisch",
+        "ru": "Наша политика качества, надежная, эффективная, профессиональная, этичная, технологическая"
+      },
+      "desc": {},
+      "desing": {
+        "header": [],
+        "body": [
+          "nqvo32",
+          "w1tjqn"
+        ],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "Değerlerimiz",
+        "en": "Our values",
+        "ar": "قيمنا",
+        "de": "Unsere Werte",
+        "ru": "Наши ценности"
+      },
+      "status": "play",
+      "category": "fpfzic54kz",
+      "id": "iv5rkqysv2",
+      "externalUrl": "",
+      "path": "degerlerimiz",
+      "index": 3,
+      "keyword": {
+        "tr": "Değerlerimiz",
+        "en": "Our values",
+        "ar": "قيمنا",
+        "de": "Unsere Werte",
+        "ru": "Наши ценности"
+      },
+      "description": {
+        "tr": "Değerlerimiz sayfası",
+        "en": "Our values page",
+        "ar": "صفحة قيمنا",
+        "de": "Unsere Werte-Seite",
+        "ru": "Страница наших ценностей"
+      },
+      "spot": {
+        "tr": "Değerlerimiz sayfası",
+        "en": "Our values page",
+        "ar": "صفحة قيمنا",
+        "de": "Unsere Werte-Seite",
+        "ru": "Страница наших ценностей"
+      },
+      "desc": {},
+      "desing": {
+        "header": [],
+        "body": [
+          "nqvo32",
+          "w1tjqn"
+        ],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "Çerez Politikası",
+        "en": "Cookie Policy",
+        "ar": "سياسة ملفات الارتباط",
+        "de": "Cookie-Richtlinie",
+        "ru": "Политика использования файлов cookie"
+      },
+      "status": "play",
+      "category": "fpfzic54kz",
+      "id": "jumqgcgien",
+      "externalUrl": "",
+      "path": "cerez-politikasi",
+      "index": 4,
+      "keyword": {
+        "tr": "Çerez Politikası",
+        "en": "Cookie Policy",
+        "ar": "سياسة ملفات الارتباط",
+        "de": "Cookie-Richtlinie",
+        "ru": "Политика использования файлов cookie"
+      },
+      "description": {
+        "tr": "Çerez Politikası sayfası",
+        "en": "Cookie Policy page",
+        "ar": "صفحة سياسة ملفات الارتباط",
+        "de": "Cookie-Richtlinie-Seite",
+        "ru": "Страница политики использования файлов cookie"
+      },
+      "spot": {
+        "tr": "Çerez Politikası sayfası",
+        "en": "Cookie Policy page",
+        "ar": "صفحة سياسة ملفات الارتباط",
+        "de": "Cookie-Richtlinie-Seite",
+        "ru": "Страница политики использования файлов cookie"
+      },
+      "desc": {},
+      "desing": {
+        "header": [],
+        "body": [
+          "nqvo32",
+          "w1tjqn"
+        ],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "Yasal Uyarı",
+        "en": "Legal warning",
+        "ar": "تحذير قانوني",
+        "de": "Rechtliche Warnung",
+        "ru": "Юридическое предупреждение"
+      },
+      "status": "play",
+      "category": "fpfzic54kz",
+      "id": "f6rdd8u21a",
+      "externalUrl": "",
+      "path": "yasal-uyari",
+      "index": 5,
+      "keyword": {
+        "tr": "Kişisel Veriler",
+        "en": "Personal Data",
+        "ar": "بيانات شخصية",
+        "de": "Persönliche Daten",
+        "ru": "Личные данные"
+      },
+      "description": {
+        "tr": "Kişisel Veriler sayfası",
+        "en": "Personal Data page",
+        "ar": "صفحة بيانات شخصية",
+        "de": "Seite mit persönlichen Daten",
+        "ru": "Страница личных данных"
+      },
+      "spot": {
+        "tr": "Kişisel Veriler sayfası",
+        "en": "Personal Data page",
+        "ar": "صفحة بيانات شخصية",
+        "de": "Seite mit persönlichen Daten",
+        "ru": "Страница личных данных"
+      },
+      "desc": {},
+      "desing": {
+        "header": [],
+        "body": [
+          "nqvo32",
+          "w1tjqn"
+        ],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "Kişisel Veriler",
+        "en": "Personal Data",
+        "ar": "بيانات شخصية",
+        "de": "Persönliche Daten",
+        "ru": "Личные данные"
+      },
+      "status": "play",
+      "category": "fpfzic54kz",
+      "id": "nk41r2o7rj",
+      "externalUrl": "",
+      "path": "kisisel-veriler",
+      "index": 6,
+      "keyword": {
+        "tr": "Kişisel Veriler",
+        "en": "Personal Data",
+        "ar": "بيانات شخصية",
+        "de": "Persönliche Daten",
+        "ru": "Личные данные"
+      },
+      "description": {
+        "tr": "Kişisel Veriler sayfası",
+        "en": "Personal Data page",
+        "ar": "صفحة بيانات شخصية",
+        "de": "Seite mit persönlichen Daten",
+        "ru": "Страница личных данных"
+      },
+      "spot": {
+        "tr": "Kişisel Veriler sayfası",
+        "en": "Personal Data page",
+        "ar": "صفحة بيانات شخصية",
+        "de": "Seite mit persönlichen Daten",
+        "ru": "Страница личных данных"
+      },
+      "desc": {},
+      "desing": {
+        "header": [],
+        "body": [
+          "nqvo32",
+          "w1tjqn"
+        ],
+        "footer": []
+      }
+    },
+    {
+      "path": "kurumsal",
+      "img": "index.png",
+      "name": {
+        "tr": "Kurumsal",
+        "en": "Institutional",
+        "de": "Institutionell",
+        "ar": "المؤسسية",
+        "ru": "Институциональный"
+      },
+      "index": 7,
+      "desing": {
+        "footer": [],
+        "header": [],
+        "body": [
+          "exmsmi",
+          "uusn3o"
+        ]
+      },
+      "description": {
+        "tr": "AVD Company olarak 25 yıldır profesyonel personel kadromuz ile ithalat, ihracat, danışmanlık, lojistik ve transit ticaret alanlarında hizmet sunmaktan onur duyuyoruz.",
+        "en": "We are proud to offer import, export, consultancy, logistics, and transit trade services with our 25-year professional personnel team.",
+        "de": "Wir bieten Import-, Export-, Beratungs-, Logistik- und Transithandelsdienstleistungen mit unserem 25-jährigen professionellen Personalkader an.",
+        "ar": "نحن فخورون بتقديم خدمات الاستيراد والتصدير والاستشارات والخدمات اللوجستية وتجارة العبور مع فريقنا المهني ذو الخبرة 25 عامًا.",
+        "ru": "Как компания AVD, мы имеем честь предоставлять услуги в области импорта, экспорта, консультирования, логистики и транзитной торговли с нашим профессиональным персоналом на протяжении 25 лет."
+      },
+      "id": "fpfzic54kz",
+      "category": "",
+      "keyword": {
+        "tr": "ithalat, ihracat, danışmanlık, lojistik, transit ticaret",
+        "en": "import, export, consultancy, logistics, transit trade",
+        "de": "Import, Export, Beratung, Logistik, Transithandel",
+        "ar": "الاستيراد والتصدير والاستشارات والخدمات اللوجستية وتجارة العبور",
+        "ru": "импорт, экспорт, консалтинг, логистика, транзитная торговля"
+      },
+      "externalUrl": "",
+      "status": "play",
+      "spot": {
+        "tr": "",
+        "en": "",
+        "de": "",
+        "ar": "",
+        "ru": ""
+      },
+      "desc": {}
+    },
+    {
+      "path": "hizmetlerimiz",
+      "name": {
+        "tr": "Hizmetlerimiz",
+        "en": "Our services",
+        "de": "Unsere Dienstleistungen",
+        "ar": "خدماتنا",
+        "ru": "Наши сервисы"
+      },
+      "index": 8,
+      "desing": {
+        "footer": [],
+        "header": [],
+        "body": [
+          "q8p7k4",
+          "nqvo32",
+          "vg91j4"
+        ]
+      },
+      "id": "h3ljjyudoy",
+      "category": "",
+      "externalUrl": "",
+      "status": "play",
+      "description": {
+        "tr": "AVD Company, 25 yıllık tecrübesi ile ithalat, ihracat, danışmanlık, lojistik ve transit ticaret hizmetleri sunmaktadır.",
+        "en": "AVD Company offers import, export, consultancy, logistics and transit trade services with 25 years of experience.",
+        "de": "AVD Company bietet Import-, Export-, Beratungs-, Logistik- und Transithandelsdienstleistungen mit 25 Jahren Erfahrung.",
+        "ar": "تقدم شركة AVD خدمات الاستيراد والتصدير والاستشارات والخدمات اللوجستية وتجارة العبور مع 25 عامًا من الخبرة.",
+        "ru": "Компания AVD предлагает услуги по импорту, экспорту, консалтингу, логистике и транзитной торговле с 25-летним опытом."
+      },
+      "keyword": {
+        "tr": "ithalat, ihracat, danışmanlık, lojistik, transit ticaret",
+        "en": "import, export, consultancy, logistics, transit trade",
+        "de": "Import, Export, Beratung, Logistik, Transithandel",
+        "ar": "الاستيراد والتصدير والاستشارات والخدمات اللوجستية وتجارة العبور",
+        "ru": "импорт, экспорт, консалтинг, логистика, транзитная торговля"
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "de": "",
+        "ar": "",
+        "ru": ""
+      },
+      "desc": {}
+    },
+    {
+      "path": "insan-kaynaklari",
+      "name": {
+        "tr": "İnsan Kaynakları",
+        "en": "Human Resources",
+        "de": "Personalwesen",
+        "ar": "الموارد البشرية",
+        "ru": "Человеческие ресурсы"
+      },
+      "index": 9,
+      "desing": {
+        "footer": [],
+        "header": [],
+        "body": [
+          "ncy6ot"
+        ]
+      },
+      "id": "momjybyh64",
+      "category": "",
+      "externalUrl": "",
+      "status": "play",
+      "description": {
+        "tr": "AVD, İnsan Kaynakları yönetimini ve çalışanlarının işten çıkarmayı kolaylaştıran hizmetleri sunuyor.",
+        "en": "AVD offers human resources management and services to make it easier for employees to leave the job.",
+        "de": "AVD bietet die Verwaltung von Personalressourcen und Dienstleistungen, die es Mitarbeitern erleichtern, ihre Arbeit zu verlassen.",
+        "ar": "تقدم شركة AVD إدارة الموارد البشرية والخدمات التي تساعد الموظفين على مغادرة العمل.",
+        "ru": "AVD предлагает услуги, которые облегчают управление персоналом и увольнение сотрудников."
+      },
+      "keyword": {
+        "tr": "ihracat, çalışan, çıkış, çıkış yönetimi",
+        "en": "resignation, employee, exit, management",
+        "de": "Austrittsmanagement, Mitarbeiter, Austritt, Personalverwaltung",
+        "ar": "إدارة الإستقال والموظفين والخروج وإدارة الموارد البشرية",
+        "ru": "экспорт, сотрудник, выход, управление выходом"
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "de": "",
+        "ar": "",
+        "ru": ""
+      },
+      "desc": {}
+    },
+    {
+      "path": "iletisim",
+      "name": {
+        "tr": "İletişim",
+        "en": "Communication",
+        "de": "Kommunikation",
+        "ar": "تواصل",
+        "ru": "Коммуникация"
+      },
+      "index": 10,
+      "desing": {
+        "footer": [],
+        "header": [],
+        "body": [
+          "hupriy"
+        ]
+      },
+      "id": "oxovedhyam",
+      "category": "",
+      "externalUrl": "",
+      "status": "play",
+      "keyword": {
+        "tr": "İletişim",
+        "en": "Communication",
+        "de": "Kommunikation",
+        "ar": "تواصل",
+        "ru": "Коммуникация"
+      },
+      "description": {
+        "tr": "İletişim sayfası",
+        "en": "Communication page",
+        "de": "Kommunikationsseite",
+        "ar": "صفحة التواصل",
+        "ru": "Страница контактов"
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "de": "",
+        "ar": "",
+        "ru": ""
+      },
+      "desc": {}
+    }
+  ],
+  "name": "Sayfalar",
+  "index": 0,
+  "desing": {
+    "footer": [],
+    "header": [],
+    "body": []
+  },
+  "modulestatus": {
+    "img": true,
+    "page": true,
+    "detail": true,
+    "body": true
+  },
+  "desc": []
+}

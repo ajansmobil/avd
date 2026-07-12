@@ -1,0 +1,372 @@
+{
+  "data": [
+    {
+      "path": "menu-3",
+      "name": "Menü",
+      "index": 0,
+      "desing": {
+        "logo": "logo.svg",
+        "color": "#000",
+        "logosize": 300,
+        "logosizemobil": 200
+      },
+      "id": "bedngy",
+      "local": "header",
+      "data": [
+        {
+          "title": "Bizi hemen arayın",
+          "spot": "+90 342 221 00 02",
+          "icon": "phone",
+          "url": "tel:+90 342 221 00 02",
+          "titlecolor": "#000",
+          "spotcolor": "#000",
+          "iconcolor": "#000"
+        },
+        {
+          "title": "Bize yazın",
+          "spot": "info@avdcompany.com",
+          "icon": "phone",
+          "url": "mailto:info@avdcompany.com",
+          "titlecolor": "#000",
+          "spotcolor": "#000",
+          "iconcolor": "#000"
+        },
+        {
+          "title": "İncilipınar Mah. Şehit Yusuf Erin Cad.",
+          "spot": "Çayırlı İş Mrk. B Blok Kat:6 No:22 Gaziantep",
+          "icon": "phone",
+          "url": "https://www.google.com/maps/place/%C3%87ay%C4%B1rl%C4%B1+%C4%B0%C5%9F+Merkezi/@37.065655,37.372322,15z/data=!4m5!3m4!1s0x0:0xed504e1f7c58c672!8m2!3d37.0656466!4d37.3723193?shorturl=1",
+          "titlecolor": "#000",
+          "spotcolor": "#000",
+          "iconcolor": "#000"
+        }
+      ]
+    },
+    {
+      "path": "footer-1",
+      "name": "Footer",
+      "index": 1,
+      "id": "hs14ck",
+      "local": "footer",
+      "desing": {
+        "bgcolor": "#000",
+        "color": "#fff"
+      }
+    },
+    {
+      "index": 2,
+      "name": "Slider",
+      "path": "slider",
+      "data": [
+        {
+          "img": "a.jpg"
+        },
+        {
+          "img": "b.jpg"
+        },
+        {
+          "img": "c.jpg"
+        }
+      ],
+      "id": "wd0v5z",
+      "local": "header",
+      "desing": {
+        "delay": 3000
+      }
+    },
+    {
+      "path": "contact",
+      "data": [
+        {
+          "icon": "phone",
+          "text": "+903422210002",
+          "url": "tel:03422210002"
+        },
+        {
+          "icon": "mail",
+          "text": "info@avdcompany.com",
+          "url": "mail:info@avdcompany.com"
+        },
+        {
+          "icon": "map",
+          "text": "İncilipınar Mah. Şehit Yusuf Erin Cad. Çayırlı İş Mrk. B Blok Kat:6 No:22 P.K.: 27090 Şehitkamil / Gaziantep"
+        }
+      ],
+      "name": "İletişim",
+      "desing": {
+        "color": "#999"
+      },
+      "index": 3,
+      "id": "hupriy",
+      "local": "body"
+    },
+    {
+      "path": "page-slider",
+      "name": "page-slider",
+      "desing": {
+        "name": {
+          "tr": "Profesyonel hizmetlerimiz...",
+          "en": "Our professional services...",
+          "de": "Unsere professionellen Dienstleistungen...",
+          "ar": "خدماتنا المهنية...",
+          "ru": "Наши профессиональные услуги..."
+        },
+        "color": "#000",
+        "page": "service"
+      },
+      "index": 4,
+      "id": "q8p7k4",
+      "local": "body"
+    },
+    {
+      "index": 5,
+      "name": "Module Slider Liste",
+      "path": "module-slider-list",
+      "desing": {
+        "name": {
+          "tr": "Portföyümüz",
+          "en": "Our portfolio",
+          "de": "Unser Portfolio",
+          "ar": "لدينا محفظة",
+          "ru": "Наше портфолио"
+        },
+        "size": 6,
+        "button": "true",
+        "color1": "#fff",
+        "color2": "#e9e9e9"
+      },
+      "id": "vg91j4",
+      "local": "body",
+      "data": [
+        {
+          "img": "1.jpg",
+          "externalUrl": ""
+        },
+        {
+          "img": "2.jpg",
+          "url": "kutahya.pdf"
+        },
+        {
+          "img": "3.jpg",
+          "url": "antepsan.pdf"
+        },
+        {
+          "img": "4.jpg",
+          "url": "brart.pdf"
+        },
+        {
+          "img": "5.jpg",
+          "url": "kirteksmetal.pdf"
+        },
+        {
+          "img": "6.jpg",
+          "url": "pasabahce.pdf"
+        },
+        {
+          "img": "7.jpg",
+          "url": "rcr.pdf"
+        },
+        {
+          "img": "8.jpg",
+          "url": "lav.pdf"
+        },
+        {
+          "img": "10.jpg",
+          "url": "safircam.pdf"
+        },
+        {
+          "img": "11.jpg",
+          "externalUrl": ""
+        },
+        {
+          "img": "12.jpg",
+          "externalUrl": ""
+        },
+        {
+          "img": "13.jpg",
+          "externalUrl": ""
+        }
+      ]
+    },
+    {
+      "path": "page-text-img",
+      "name": "Page Text İmg",
+      "index": 6,
+      "id": "exmsmi",
+      "local": "body"
+    },
+    {
+      "name": "Text",
+      "path": "page-text",
+      "local": "body",
+      "id": "nqvo32",
+      "index": 7
+    },
+    {
+      "name": "İnsan Kaynakları",
+      "path": "recruiter",
+      "local": "body",
+      "id": "ncy6ot",
+      "index": 8
+    },
+    {
+      "name": "Module Slider Liste 2",
+      "path": "module-slider-list-2",
+      "local": "body",
+      "desing": {
+        "name": {
+          "tr": "Avd Company Ekibimiz",
+          "en": "Our Avd Company Team",
+          "ar": "فريق شركة Avd لدينا",
+          "de": "Unser Avd Company-Team",
+          "ru": "Наша команда компании Avd"
+        },
+        "color": "#fff",
+        "fontcolor": "#000",
+        "number": "4"
+      },
+      "data": [
+        {
+          "img": "1.jpg",
+          "name": "A. Volkan Diyarbakırlı)",
+          "title": {
+            "tr": "Kurucu",
+            "en": "Founder",
+            "ar": "مؤسس",
+            "de": "Gründer",
+            "ru": "основатель"
+          },
+          "spot": {
+            "tr": "Avd Company  Şirketi Kurucusu"
+          }
+        },
+        {
+          "img": "2.jpg",
+          "name": "Tuncay Ünverdi ",
+          "title": {
+            "tr": "Muhasebe Müdürü",
+            "en": "Accountant Manager",
+            "ar": "مدير الحسابات",
+            "de": "Kontomanager",
+            "ru": "руководитель бухгалтерии"
+          }
+        },
+        {
+          "img": "3.jpg",
+          "name": "Slavyana (Eda) Diyarbakırlı",
+          "title": {
+            "tr": "Asya İhracat Sorumlusu",
+            "en": "Asian Export Officer",
+            "ar": "رئيس السياسة الإقتصادية الأسيوية في المنطقة الآسيايية",
+            "de": "Asien Export-Abteilung",
+            "ru": "Азия и Евразия"
+          }
+        },
+        {
+          "img": "4.jpg",
+          "name": "Betül Vali",
+          "title": {
+            "tr": "Ortadoğu İhracat Sorumlusu",
+            "en": "Eastern Export Officer",
+            "ar": "رئيس السياسة الإقتصادية الأسيوية في المنطقة الشرقية",
+            "de": "Ostexport-Abteilung",
+            "ru": "руководитель экономической политики в восточном регионе"
+          }
+        },
+        {
+          "img": "5.jpg",
+          "name": "Nuri Cıncık",
+          "title": {
+            "tr": "Satın Alma & Lojistik Uzmanı",
+            "en": "Purchase & Logistics Expert",
+            "ar": "خبير في شراء والنقل",
+            "de": "Kaufmann & Logistik-Experte",
+            "ru": "Эксперт по покупке и логистике"
+          }
+        }
+      ],
+      "id": "w1tjqn",
+      "index": 9
+    },
+    {
+      "name": "Module 1",
+      "path": "module-1",
+      "local": "body",
+      "desing": {
+        "name": {
+          "tr": "AVD Company'i Tanıyın",
+          "en": "Get to Know AVD Company",
+          "ar": "تعرف على شركة AVD",
+          "de": "Lernen Sie AVD Company kennen",
+          "ru": "Познакомьтесь с компанией AVD"
+        },
+        "spot": {
+          "tr": "AVD Company olarak 25 yıldır profesyonel personel kadromuz ile ithalat, ihracat, danışmanlık, lojistik ve transit ticaret alanlarında hizmet sunmaktan onur duyuyoruz. Ürünü olsun ya da olmasın, tüm firmalar için profesyonel ve kurumsal danışmanlık hizmeti sunarak firmaların etkin şekilde ithalat ya da ihracat yapmalarını sağlıyoruz.",
+          "en": "As AVD Company, we are honored to provide services in the fields of import, export, consultancy, logistics and transit trade with our professional staff for 25 years. ",
+          "ar": "كشركة AVD، يشرفنا تقديم الخدمات في مجالات الاستيراد والتصدير والاستشارات والخدمات اللوجستية وتجارة العبور مع موظفينا المحترفين لمدة 25 عامًا. ",
+          "de": "Als AVD-Unternehmen fühlen wir uns geehrt, seit 25 Jahren mit unserem professionellen Personal Dienstleistungen in den Bereichen Import, Export, Beratung, Logistik und Transithandel anzubieten. ",
+          "ru": "Как компания AVD, мы имеем честь предоставлять услуги в области импорта, экспорта, консультирования, логистики и транзитной торговли с нашим профессиональным персоналом на протяжении 25 лет. "
+        },
+        "name2": {
+          "tr": "Vizyonumuz",
+          "en": "our vision",
+          "ar": "رؤيتنا",
+          "de": "unsere Vision",
+          "ru": "Наше видение"
+        },
+        "spot2": {
+          "tr": "Tüm sektörlerde yapacağımız inovasyonlarla adımızdan söz ettirmek.",
+          "en": "To make a name for ourselves with the innovations we will make in all sectors.",
+          "ar": "أن نصنع اسمًا لأنفسنا من خلال الابتكارات التي سنحققها في جميع القطاعات.",
+          "de": "Mit unseren Innovationen in allen Branchen einen Namen machen.",
+          "ru": "Сделать себе имя благодаря инновациям, которые мы будем внедрять во всех секторах."
+        },
+        "icon2": "home",
+        "name3": {
+          "tr": "Misyonumuz",
+          "en": "Our Mission",
+          "ar": "مهمتنا",
+          "de": "Unsere Aufgabe",
+          "ru": "Наша миссия"
+        },
+        "spot3": {
+          "tr": "Hizmet sunduğumuz alanlarda ihtiyaç duyulan çözümleri sunmak.",
+          "en": "To provide the solutions needed in the areas we serve.",
+          "ar": "تقديم الحلول اللازمة في المناطق التي نخدمها.",
+          "de": "Bereitstellung der Lösungen, die in den von uns betreuten Bereichen benötigt werden.",
+          "ru": "Предоставлять решения, необходимые в тех областях, которые мы обслуживаем."
+        },
+        "icon3": "home",
+        "img": "index.jpg",
+        "color": "#f00",
+        "bgcolor": "#000",
+        "fontcolor": "#fff",
+        "margintop": "20",
+        "marginbotton": "20"
+      },
+      "id": "uzvrd9",
+      "index": 10
+    },
+    {
+      "name": "Module Video",
+      "path": "module-video",
+      "local": "body",
+      "desing": {
+        "name": {
+          "tr": "AVD Company'i Tanıtım Videosu",
+          "en": "AVD Company Promotional Video",
+          "ar": "فيديو ترويجي لشركة AVD",
+          "de": "Werbevideo der AVD-Firma",
+          "ru": "Рекламный видеоролик компании AVD"
+        },
+        "video": "video.mp4",
+        "margintop": "20",
+        "marginbotton": "20",
+        "bgcolor": "#000",
+        "fontcolor": "#fff"
+      },
+      "id": "uusn3o",
+      "index": 11
+    }
+  ]
+}

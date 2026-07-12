@@ -1,0 +1,216 @@
+{
+  "path": "service",
+  "name": "Hizmetler",
+  "index": 1,
+  "desing": {
+    "footer": [],
+    "header": [],
+    "body": [
+      "exmsmi",
+      "q8p7k4"
+    ]
+  },
+  "modulestatus": {
+    "img": true,
+    "spot": true,
+    "detail": true
+  },
+  "desc": [],
+  "data": [
+    {
+      "path": "ithalat",
+      "img": "index.jpg",
+      "spot": {
+        "tr": "AVD olarak yurt dışından ithalat yaparak ülkemizdeki gelişime ayak uydurmak, iş ya da ticaret alanını büyümek",
+        "en": "As AVD, we keep up with the developments in our country and expand the business or trade area by importing from abroad.",
+        "de": "Als AVD bleiben wir mit den Entwicklungen in unserem Land Schritt und erweitern den Geschäfts- oder Handelsbereich durch Importe aus dem Ausland.",
+        "ar": "نحن كشركة AVD، نواكب التطورات في بلدنا ونوسع مجال الأعمال أو التجارة عن طريق الاستيراد من الخارج.",
+        "ru": "Как AVD, мы следим за развитием событий в нашей стране и расширяем сферу бизнеса или торговли за счет импорта из-за границы."
+      },
+      "name": {
+        "tr": "İthalat",
+        "en": "Imports",
+        "de": "Importe",
+        "ar": "الواردات",
+        "ru": "Импорт"
+      },
+      "index": 0,
+      "description": {
+        "tr": "İthalat, ihracat, ticari danışmanlık ve lojistik hizmetleri sunuyoruz. En iyi çözümler ve teknolojilerle size hizmet veriyoruz.",
+        "en": "We offer import, export, consultancy, and logistics services. We provide the best solutions and technologies.",
+        "de": "Wir bieten Dienstleistungen im Bereich Import, Export, Beratung und Logistik an. Wir bieten die besten Lösungen und Technologien.",
+        "ar": "نقدم خدمات استيراد وتصدير واستشارات ولوجستيات. نقدم أفضل الحلول والتقنيات.",
+        "ru": "Мы предлагаем импорт, экспорт, коммерческие консультации и логистические услуги. "
+      },
+      "keyword": {
+        "tr": "İthalat, ihracat, lojistik, danışmanlık",
+        "en": "Imports, exports, logistics, consultancy",
+        "de": "Importe, Exporte, Logistik, Beratung",
+        "ar": "الواردات، التصدير، اللوجستيات، الاستشارات",
+        "ru": "Импорт, экспорт, логистика, консультации"
+      },
+      "desing": {
+        "footer": [],
+        "header": [],
+        "body": []
+      },
+      "id": "hudsm4voou",
+      "category": "",
+      "externalUrl": "",
+      "status": "play",
+      "desc": {}
+    },
+    {
+      "path": "ihracat",
+      "img": "index.jpg",
+      "spot": {
+        "tr": "AVD olarak ihracat yapmak isteyen tüm firmaların ve hali hazırda ihracat yapan ancak işini büyütmek isteyen firmaların",
+        "en": "All companies that want to export as AVD and companies that already export but want to expand their business",
+        "de": "Alle Unternehmen, die als AVD exportieren möchten und Unternehmen, die bereits exportieren, aber ihr Geschäft erweitern möchten",
+        "ar": "جميع الشركات التي ترغب في التصدير كـ AVD والشركات التي تقوم بالتصدير بالفعل ولكنها ترغب في توسيع أعمالها",
+        "ru": "Все компании, которые хотят экспортировать как AVD, и компании, которые уже экспортируют, но хотят расширить свой бизнес."
+      },
+      "name": {
+        "tr": "İhracat",
+        "en": "Export",
+        "de": "Export",
+        "ar": "يصدّر",
+        "ru": "Экспорт"
+      },
+      "index": 1,
+      "id": "fodcxat9ug",
+      "category": "",
+      "externalUrl": "",
+      "status": "play",
+      "keyword": {
+        "tr": "Transit ticaret, İhracat, Dış Ticaret, İthalat, İhracat Danışmanlığı, İhracat İşletmeleri, Dış Ticaret İşletmeleri, İhracat Firmaları, İhracat İşletmeleri, İhracat Danışmanlık",
+        "en": "Export, Import, Foreign Trade, Export Companies, Foreign Trade Companies, Export Consultancy",
+        "de": "Export, Import, Auslands Handel, Exportfirmen, Auslands Handel Firmen, Export Beratung",
+        "ar": "التصدير، استيراد، تجارة خارجية، شركات التصدير، شركات تجارة الخارج، استشارات التصدير",
+        "ru": "Транзитная торговля, Экспорт, Внешняя торговля, Импорт, Консультации по экспорту, Экспортные предприятия, Внешнеторговые предприятия, Экспортные компании, Экспортные предприятия, Консультации по экспорту"
+      },
+      "description": {
+        "tr": "Transit ticaret, uluslararası alanlarda mahsulotlarin alinip satilmasi süreci.",
+        "en": "Transit trade, the process of buying and selling goods globally.",
+        "de": "Transithandel, der Prozess der globale Kauf und Verkauf von Waren.",
+        "ar": "التجارة الترانزيت، وعملية شراء وبيع الтоварів على مستوى عالمي.",
+        "ru": "Транзитная торговля – это процесс покупки и продажи сельскохозяйственных культур на международном уровне."
+      },
+      "desc": {}
+    },
+    {
+      "path": "transit-ticaret",
+      "img": "index.jpg",
+      "spot": {
+        "tr": "Transit ticaret bir malın bir ülkeden alınıp başka bir ülkeye satılması aşamasında, malların taşınması sırasına aradaki",
+        "en": "Transit trade is the process in which a good is bought from one country and sold to another country, and the intervening time during the transportation of the goods.",
+        "de": "Unter Transithandel versteht man den Prozess, bei dem eine Ware in einem Land gekauft und in ein anderes Land verkauft wird, sowie die dazwischen liegende Zeit während des Transports der Ware.",
+        "ar": "تجارة الترانزيت هي العملية التي يتم فيها شراء سلعة من دولة ما وبيعها إلى دولة أخرى، والوقت الذي يتخللها نقل البضائع.",
+        "ru": "Транзитная торговля — это процесс покупки товара в одной стране и продажи его в другую страну, а также промежуточный период во время транспортировки товара."
+      },
+      "name": {
+        "tr": "Transit Ticaret",
+        "en": "Transit Trade",
+        "de": "Transithandel",
+        "ar": "تجارة الترانزيت",
+        "ru": "Транзитная торговля"
+      },
+      "index": 2,
+      "id": "zc49mfwlpw",
+      "category": "",
+      "externalUrl": "",
+      "status": "play",
+      "keyword": {
+        "tr": "Transit ticaret, logistik, lojistik, kargo, taşıma, lojistik hizmetleri",
+        "en": "Transit trade, logistics, freight, transportation, logistics services",
+        "de": "Transithandel, Logistik, Fracht, Transport, Logistikdienstleistungen",
+        "ar": "تجارة الترانزيت، اللوجستيك، الترانزيت، الترانزيت، خدمات اللوجستيك",
+        "ru": "Транзитная торговля, логистика, логистика, грузы, перевозки, логистические услуги"
+      },
+      "description": {
+        "tr": "Transit ticaret, lojistik hizmetleri",
+        "en": "Transit trade, logistics services",
+        "de": "Transithandel, Logistikdienstleistungen",
+        "ar": "تجارة الترانزيت، خدمات اللوجستيك",
+        "ru": "Транзитная торговля, логистические услуги"
+      },
+      "desc": {}
+    },
+    {
+      "path": "lojistik",
+      "img": "index.jpg",
+      "spot": {
+        "tr": "Lojistik, kelime anlamı olarak “geri hizmet” demektir. İhtiyaçların karşılanması amacıyla her türlü ürün,",
+        "en": "Logistics literally means “back service”. ",
+        "de": "Logistik bedeutet wörtlich „Rückendienst“. ",
+        "ar": "\"اللوجستيات\" تعني حرفيًا \"الخدمة الخلفية\". ",
+        "ru": "Логистика буквально означает «обратное обслуживание». "
+      },
+      "name": {
+        "tr": "Lojistik",
+        "en": "Logistics",
+        "de": "Logistik",
+        "ar": "الخدمات اللوجستية",
+        "ru": "Логистика"
+      },
+      "index": 3,
+      "id": "s2m01noyf3",
+      "category": "",
+      "externalUrl": "",
+      "status": "play",
+      "keyword": {
+        "tr": "Logistik hizmetleri, ihracat, ithalat, transit ticaret, lojistik, kargo, tedarik, uluslararası alanda satış, uluslararası alanda tedarik, logistik firmaları",
+        "en": "Logistics services, export, import, transit trade, logistics, cargo, distribution, international sales, international distribution",
+        "de": "Logistikdienstleistungen, Export, Import, Transitverkehr, Logistik, Fracht, Versand, internationale Handel, internationale Lieferung",
+        "ar": "الخدمات اللوجستية، التصدير، الاستيراد، التجارة المتواصلة، اللوجستي، الشحن، التوزيع، التجارة الدولية، التوزيع الدولي",
+        "ru": "Логистические услуги, экспорт, импорт, транзитная торговля, логистика, грузы, поставки, международные продажи, международные поставки, логистические компании"
+      },
+      "description": {
+        "tr": "Transit ticaret, uluslararası alanlarda mahsulotlarin alinip satilmasi süreci.",
+        "en": "Transit trade, the process of buying and selling goods globally.",
+        "de": "Transithandel, der Prozess der globale Kauf und Verkauf von Waren.",
+        "ar": "التجارة الترانزيت، وعملية شراء وبيع المنتجات على مستوى عالمي.",
+        "ru": "Транзитная торговля – это процесс покупки и продажи сельскохозяйственных культур на международном уровне."
+      },
+      "desc": {}
+    },
+    {
+      "path": "danismanlik",
+      "img": "index.jpg",
+      "spot": {
+        "tr": "Danışmanlık hizmeti, ihracat ve ithalat sürecinin kolaylaştırılması, ithalat ve ihracatın profesyonel şekilde yönetilmesi",
+        "en": "Consultancy service, facilitating the export and import process, professional management of import and export",
+        "de": "Beratungsdienst, Erleichterung des Export- und Importprozesses, professionelles Management von Import und Export",
+        "ar": "خدمة استشارية، تسهيل عملية التصدير والاستيراد، إدارة احترافية للاستيراد والتصدير",
+        "ru": "Консультационные услуги, содействие процессу экспорта и импорта, профессиональное управление импортом и экспортом"
+      },
+      "name": {
+        "tr": "Danışmanlık",
+        "en": "consultancy",
+        "de": "Beratung",
+        "ar": "الاستشارات",
+        "ru": "консультирование"
+      },
+      "index": 4,
+      "id": "scgjrglzm6",
+      "category": "",
+      "externalUrl": "",
+      "status": "play",
+      "keyword": {
+        "tr": "Danışmanlık, ticari danışmanlık, import, export, lojistik, ihracat, transit ticaret, logistik, beratung",
+        "en": "Consultancy, business consultancy, import, export, logistics, export, transit trade, logistics, consulting",
+        "de": "Beratung, geschäftsberatung, import, export, logistik, export, transithandel, logistik, beratung",
+        "ar": "الاستشارات، استشارات الأعمال، الاستيراد، التصدير، اللوجستيات، الاستيراد، التصدير، تجارة الترانزيت، اللوجستيات، الاستشارات",
+        "ru": "Консультирование, коммерческое консультирование, импорт, экспорт, логистика, экспорт, транзитная торговля, логистика, beratung"
+      },
+      "description": {
+        "tr": "İthalat, ihracat, lojistik, transit ticaret için yönlendiren ve destekleyen danışmanlık.",
+        "en": "Consultancy for import, export, logistics and transit trade.",
+        "de": "Beratung für Import, Export, Logistik und Transitverkehr.",
+        "ar": "استشارات للاستيراد والتصدير واللوجستيات والتجارة الترانزيتية.",
+        "ru": "Руководство и поддержка консультирования по импорту, экспорту, логистике, транзитной торговле."
+      },
+      "desc": {}
+    }
+  ]
+}

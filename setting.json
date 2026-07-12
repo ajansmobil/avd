@@ -1,0 +1,29 @@
+{
+  "domain": "avdcompany.com",
+  "name": "Avd Company",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": true,
+    "ru": true,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "user": false,
+  "order": false,
+  "category": "Eticaret",
+  "description": {
+    "tr": "AVD Company olarak 25 yılı aşkın deneyimimizle ithalat, ihracat, danışmanlık ve lojistik alanlarında profesyonel hizmet sunuyoruz. Orta Doğu, Avrupa, Türkiye Cumhuriyetleri ve Rusya'da güçlü altyapımızla, firmaların uluslararası ticarette başarılı olmalarını sağlıyoruz. Şeffaf ve sonuç odaklı çözümlerimizle ticaret süreçlerinizi en düşük maliyetle yönetiyoruz."
+  },
+  "keyword": {
+    "tr": "AVD Company, İthalat hizmetleri, İhracat hizmetleri, Danışmanlık hizmetleri, Lojistik çözümler, Transit ticaret, Profesyonel ticaret danışmanlığı, Uluslararası ticaret, İthalat danışmanlığı, İhracat danışmanlığı, Lojistik firmaları Türkiye, Orta Doğu ticareti, Avrupa ticareti, Rusya ticareti, Ticaret danışmanlığı Türkiye"
+  },
+  "logo": "logo.svg",
+  "githubmail": false
+}

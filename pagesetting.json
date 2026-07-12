@@ -1,0 +1,134 @@
+{
+  "data": [
+    {
+      "path": "page",
+      "name": "Sayfalar",
+      "index": 0,
+      "desing": {
+        "footer": [],
+        "header": [],
+        "body": []
+      },
+      "modulestatus": {
+        "img": true,
+        "page": true,
+        "detail": true,
+        "body": true
+      },
+      "desc": []
+    },
+    {
+      "path": "service",
+      "name": "Hizmetler",
+      "index": 1,
+      "desing": {
+        "footer": [],
+        "header": [],
+        "body": [
+          "exmsmi",
+          "q8p7k4"
+        ]
+      },
+      "modulestatus": {
+        "img": true,
+        "spot": true,
+        "detail": true
+      },
+      "desc": [],
+      "data": [
+        {
+          "path": "ithalat",
+          "img": "index.jpg",
+          "name": {
+            "tr": "İthalat",
+            "en": "Imports",
+            "de": "Importe",
+            "ar": "الواردات",
+            "ru": "Импорт"
+          },
+          "index": 0,
+          "description": {
+            "tr": "",
+            "en": "",
+            "de": "",
+            "ar": "",
+            "ru": ""
+          },
+          "desing": {
+            "footer": [],
+            "header": [],
+            "body": []
+          },
+          "id": "hudsm4voou",
+          "category": "",
+          "externalUrl": "",
+          "status": "play"
+        },
+        {
+          "path": "ihracat",
+          "img": "index.jpg",
+          "name": {
+            "tr": "İhracat",
+            "en": "Export",
+            "de": "Export",
+            "ar": "يصدّر",
+            "ru": ""
+          },
+          "index": 1,
+          "id": "fodcxat9ug",
+          "category": "",
+          "externalUrl": "",
+          "status": "play"
+        },
+        {
+          "path": "transit-ticaret",
+          "img": "index.jpg",
+          "name": {
+            "tr": "Transit Ticaret",
+            "en": "Transit Trade",
+            "de": "Transithandel",
+            "ar": "تجارة الترانزيت",
+            "ru": ""
+          },
+          "index": 2,
+          "id": "zc49mfwlpw",
+          "category": "",
+          "externalUrl": "",
+          "status": "play"
+        },
+        {
+          "path": "lojistik",
+          "img": "index.jpg",
+          "name": {
+            "tr": "Lojistik",
+            "en": "Logistics",
+            "de": "Logistik",
+            "ar": "الخدمات اللوجستية",
+            "ru": "Логистика"
+          },
+          "index": 3,
+          "id": "s2m01noyf3",
+          "category": "",
+          "externalUrl": "",
+          "status": "play"
+        },
+        {
+          "path": "danismanlik",
+          "img": "index.jpg",
+          "name": {
+            "tr": "Danışmanlık",
+            "en": "consultancy",
+            "de": "Beratung",
+            "ar": "الاستشارات",
+            "ru": "консультирование"
+          },
+          "index": 4,
+          "id": "scgjrglzm6",
+          "category": "",
+          "externalUrl": "",
+          "status": "play"
+        }
+      ]
+    }
+  ]
+}
