@@ -87,6 +87,12 @@
     object-position: left center;
   }
 
+  
+  .h0000-logo[src*=".svg"] {
+    height: 60px;
+    width: auto;
+  }
+
   .h0000body {
     width: var(--max);
     display: flex;
@@ -180,14 +186,15 @@
     color: inherit;
   }
 
+  
   .h0000-spot {
     font-size: 16px;
-    color: --spotcolor--;
+    color: #000;
   }
 
   .h0000-icon {
     font-size: 36px !important;
-    color: --iconcolor--;
+    color: #000;
   }
 
   .h0000 {

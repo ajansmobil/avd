@@ -87,6 +87,12 @@
     object-position: left center;
   }
 
+  
+  .h0000-logo[src*=".svg"] {
+    height: 60px;
+    width: auto;
+  }
+
   .h0000body {
     width: var(--max);
     display: flex;
@@ -180,14 +186,15 @@
     color: inherit;
   }
 
+  
   .h0000-spot {
     font-size: 16px;
-    color: --spotcolor--;
+    color: #000;
   }
 
   .h0000-icon {
     font-size: 36px !important;
-    color: --iconcolor--;
+    color: #000;
   }
 
   .h0000 {
@@ -563,6 +570,204 @@
     .h0000menuoverlay,
     .h0000menubody {
       transition: none;
+    }
+  }
+
+
+  .b0000 {
+    width: var(--max);
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-top: 20px;
+  }
+
+  .b0000-body {
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .b0000-img {
+    flex: 1;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+  }
+
+  @media screen and (max-width: 1024px) {
+    .b0000 {
+      flex-direction: column;
+      width: calc(100% - 10px);
+      padding: 5px;
+      gap: 20px;
+    }
+
+    .b0000-img {
+      width: 100%;
+    }
+
+    .b0000-body {
+      width: 100%;
+    }
+  }
+
+  
+  @keyframes b0000W2Enter {
+    from { opacity: 0.98; }
+    to { opacity: 1; }
+  }
+
+  [class*="b0000"] {
+    box-sizing: border-box;
+    animation: b0000W2Enter 0.3s ease;
+    transition: opacity 0.25s ease, transform 0.25s ease;
+  }
+
+  a, button, [role="button"], input[type="submit"], input[type="button"] {
+    cursor: pointer;
+  }
+
+  @media (max-width: 768px) {
+    [class*="b0000"] {
+      max-width: 100%;
+      overflow-x: hidden;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    [class*="b0000"] {
+      animation: none !important;
+      transition: none !important;
+    }
+  }
+
+
+  .title-b0001 {
+    font-size: 18px;
+  }
+  .b0001body {
+    display: flex;
+    align-items: stretch;
+    padding: 15px 0px 15px 0px;
+  }
+  .swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .swiper-pagination-b0001 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px !important;
+  }
+  .sliderxb0001 {
+    position: relative;
+    width: 100%;
+    max-width: var(--max);
+    margin: 10px auto;
+  }
+  .slider-b0001t-itle {
+    width: 100%;
+    font-size: 28px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin-bottom: 10px;
+  }
+  .swiper-button-prev-b0001,
+  .swiper-button-next-b0001 {
+    color: #000 !important;
+    font-size: 28px;
+    font-weight: bold;
+    opacity: 0.4;
+    position: absolute !important;
+    
+    top: 50%;
+    
+    transform: translateY(-50%);
+    
+  }
+  .swiper-button-prev-b0001 {
+    left: -30px !important;
+  }
+  .swiper-button-next-b0001 {
+    right: -30px !important;
+  }
+  @media screen and (max-width: 1024px) {
+    .sliderxb0001 {
+      width: 100%;
+    }
+  }
+  .img-b0001 {
+    width: 100%;
+    aspect-ratio: 1/2;
+    border-radius: 5px;
+    box-shadow: 0px 5px 11px 0px rgba(0, 0, 0, 0.2);
+    object-fit: cover;
+  }
+  .spot-b0001 {
+    flex: 1;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;
+  }
+  .title-spot-b0001 {
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    gap: 10px;
+  }
+  .button-b0001 {
+    background-color: #000;
+    padding: 8px;
+    border-radius: 5px;
+    color: #fff;
+  }
+  .swiper-b0001 {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    border-radius: 10px;
+    margin: 5px;
+    gap: 10px;
+    padding: 5px;
+    box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.2);
+    filter: grayscale(0.7);
+    transition: filter 0.3s;
+    cursor: pointer;
+  }
+  .swiper-b0001:hover {
+    filter: grayscale(0);
+  }
+  .b0001 {
+    overflow-x: auto;
+  }
+  .b0001::-webkit-scrollbar {
+    display: none;
+  }
+
+  
+  @media (max-width: 768px) {
+    [class*="b0001"] {
+      max-width: 100%;
+      box-sizing: border-box;
+    }
+  }
+
+  
+  @media (prefers-reduced-motion: reduce) {
+    [class*="b0001"],
+    [class*="b0001"] * {
+      animation: none !important;
+      transition: none !important;
     }
   }
 

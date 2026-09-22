@@ -28,18 +28,15 @@
   <link rel="preload" href="/src/fonts/rubik/rubik-latin-500-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/rubik/rubik-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin />
 
-  <link rel="stylesheet" href="/src/rubik.css" />
-  <link rel="stylesheet" href="/src/css.css?v=ti37w" />
-  <link rel="stylesheet" href="/src/mx-ui.css?v=ti37w" />
-  <link rel="preload" href="/src/cookie.css?v=ti37w" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <link rel="preload" href="/src/swiper-bundle.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <link rel="preload" href="/src/material-symbols-outlined.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <noscript>
-    <link rel="stylesheet" href="/src/cookie.css?v=ti37w" />
-    <link rel="stylesheet" href="/src/swiper-bundle.min.css" />
-    <link rel="stylesheet" href="/src/material-symbols-outlined.css" />
-  </noscript>
-  <link rel="shortcut icon" href="/img/icon.png?v=ti37w" type="image/png" />
+  <link rel="stylesheet" href="/src/rubik.css?v=onzxl" />
+  <link rel="stylesheet" href="/src/css.css?v=onzxl" />
+  <link rel="stylesheet" href="/src/mx-ui.css?v=onzxl" />
+  <link rel="preload" href="/src/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=onzxl" />
+  
+  <link rel="stylesheet" href="/src/cookie.css?v=onzxl" />
+  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=onzxl" />
+  <link rel="shortcut icon" href="/img/icon.png?v=onzxl" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
@@ -64,14 +61,31 @@
   
 <link rel="manifest" href="/manifest.json">
 <meta name="theme-color" content="#2196f3">
-<link rel="stylesheet" href="style.css?v=ti37w">
+<link rel="stylesheet" href="style.css?v=onzxl">
 </head>
 
 <body>
+  <script>
+    (function () {
+      window.user = window.user || { id: null, email: null, name: null, isLoggedIn: false, loginMethod: null };
+      var emptySnapshot = { empty: true, forEach: function () {} };
+      var emptyDoc = { exists: false, data: function () { return null; } };
+      if (typeof window.dataAddWeb !== "function") window.dataAddWeb = function () { return Promise.resolve(); };
+      if (typeof window.dataDeleteWeb !== "function") window.dataDeleteWeb = function () { return Promise.resolve(); };
+      if (typeof window.dataUpdateWeb !== "function") window.dataUpdateWeb = function () { return Promise.resolve(); };
+      if (typeof window.dataGetWeb !== "function") window.dataGetWeb = function () { return Promise.resolve(emptyDoc); };
+      if (typeof window.dataListWeb !== "function") window.dataListWeb = function () { return Promise.resolve(emptySnapshot); };
+      if (typeof window.authStateListenerWeb !== "function") {
+        window.authStateListenerWeb = function (cb) {
+          if (typeof cb === "function") setTimeout(function () { cb(null); }, 0);
+        };
+      }
+    })();
+  </script>
   <div id="header"><div class="h0000">
 
   <div class="h0000body">
-    <a href="/en/"><img src="/img/logo.svg?v=et4rh" class="h0000-logo" alt="Avd Company Logo" loading="lazy" /></a>
+    <a href="/en/"><img src="/img/logo.svg?v=glqp7" class="h0000-logo" alt="Avd Company Logo" loading="lazy" /></a>
 
 
     <div class="h0000right">
@@ -82,26 +96,26 @@
       </div>
       <div class="h0000contactlist">
     <a href="tel:+90 342 221 00 02" class="mobil-closed" target="_blank" rel="noopener noreferrer">
-     <div class="material-symbols-outlined h0000-icon">phone</div>
+     <div class="material-symbols-outlined h0000-icon" style="color:#000">phone</div>
      <div>
       <div  class="h0000-title"></div>
-      <div  class="h0000-spot">+90 342 221 00 02</div>
+      <div  class="h0000-spot" style="color:#000">+90 342 221 00 02</div>
      </div>
     </a>
     
     <a href="mailto:info@avdcompany.com" class="mobil-closed" target="_blank" rel="noopener noreferrer">
-     <div class="material-symbols-outlined h0000-icon">phone</div>
+     <div class="material-symbols-outlined h0000-icon" style="color:#000">phone</div>
      <div>
       <div  class="h0000-title"></div>
-      <div  class="h0000-spot">info@avdcompany.com</div>
+      <div  class="h0000-spot" style="color:#000">info@avdcompany.com</div>
      </div>
     </a>
     
     <a href="https://www.google.com/maps/place/%C3%87ay%C4%B1rl%C4%B1+%C4%B0%C5%9F+Merkezi/@37.065655,37.372322,15z/data=!4m5!3m4!1s0x0:0xed504e1f7c58c672!8m2!3d37.0656466!4d37.3723193?shorturl=1" class="mobil-closed" target="_blank" rel="noopener noreferrer">
-     <div class="material-symbols-outlined h0000-icon">phone</div>
+     <div class="material-symbols-outlined h0000-icon" style="color:#000">phone</div>
      <div>
       <div  class="h0000-title"></div>
-      <div  class="h0000-spot">Çayırlı İş Mrk. B Blok Kat:6 No:22 Gaziantep</div>
+      <div  class="h0000-spot" style="color:#000">Çayırlı İş Mrk. B Blok Kat:6 No:22 Gaziantep</div>
      </div>
     </a>
     </div>
@@ -171,26 +185,26 @@
         </div>
         <div class="h0000menudrawer-contactlist">
     <a href="tel:+90 342 221 00 02" class="mobil-closed" target="_blank" rel="noopener noreferrer">
-     <div class="material-symbols-outlined h0000-icon">phone</div>
+     <div class="material-symbols-outlined h0000-icon" style="color:#000">phone</div>
      <div>
       <div  class="h0000-title"></div>
-      <div  class="h0000-spot">+90 342 221 00 02</div>
+      <div  class="h0000-spot" style="color:#000">+90 342 221 00 02</div>
      </div>
     </a>
     
     <a href="mailto:info@avdcompany.com" class="mobil-closed" target="_blank" rel="noopener noreferrer">
-     <div class="material-symbols-outlined h0000-icon">phone</div>
+     <div class="material-symbols-outlined h0000-icon" style="color:#000">phone</div>
      <div>
       <div  class="h0000-title"></div>
-      <div  class="h0000-spot">info@avdcompany.com</div>
+      <div  class="h0000-spot" style="color:#000">info@avdcompany.com</div>
      </div>
     </a>
     
     <a href="https://www.google.com/maps/place/%C3%87ay%C4%B1rl%C4%B1+%C4%B0%C5%9F+Merkezi/@37.065655,37.372322,15z/data=!4m5!3m4!1s0x0:0xed504e1f7c58c672!8m2!3d37.0656466!4d37.3723193?shorturl=1" class="mobil-closed" target="_blank" rel="noopener noreferrer">
-     <div class="material-symbols-outlined h0000-icon">phone</div>
+     <div class="material-symbols-outlined h0000-icon" style="color:#000">phone</div>
      <div>
       <div  class="h0000-title"></div>
-      <div  class="h0000-spot">Çayırlı İş Mrk. B Blok Kat:6 No:22 Gaziantep</div>
+      <div  class="h0000-spot" style="color:#000">Çayırlı İş Mrk. B Blok Kat:6 No:22 Gaziantep</div>
      </div>
     </a>
     </div>
@@ -407,7 +421,7 @@
   </div>
 </div>
 
-<script> setTimeout(() => {
+<script> setTimeout(function() {
   var swiper = new Swiper(".b0001", {
     slidesPerView: 2,
     simulateTouch: true,
@@ -478,16 +492,16 @@
     <ul class="menu">
       <li class="menu__item"><a class="menu__link" href="/en/">Home</a></li><li class="menu__item"><a class="menu__link" href="/en/hakkimizda/">About us</a></li><li class="menu__item"><a class="menu__link" href="/en/misyonumuz-vizyonumuz/">Our Mission & Vision</a></li><li class="menu__item"><a class="menu__link" href="/en/kalite-politikamiz/">Our quality policy</a></li><li class="menu__item"><a class="menu__link" href="/en/degerlerimiz/">Our values</a></li><li class="menu__item"><a class="menu__link" href="/en/cerez-politikasi/">Cookie Policy</a></li><li class="menu__item"><a class="menu__link" href="/en/yasal-uyari/">Legal warning</a></li><li class="menu__item"><a class="menu__link" href="/en/kisisel-veriler/">Personal Data</a></li><li class="menu__item"><a class="menu__link" href="/en/kurumsal/">Institutional</a></li><li class="menu__item"><a class="menu__link" href="/en/hizmetlerimiz/">Our services</a></li><li class="menu__item"><a class="menu__link" href="/en/insan-kaynaklari/">Human Resources</a></li><li class="menu__item"><a class="menu__link" href="/en/iletisim/">Communication</a></li>
     </ul>
-    <p>Avd Company 2025 cognite. &copy;</p>
+    <p>Avd Company 2026 cognite. &copy;</p>
   </footer>
   </div>
 
   
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer src="/src/mx-ui.js?v=ti37w"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=ti37w"></script>
-  <script defer src="/src/cookie.js?v=ti37w"></script>
+  <script defer src="/src/mx-ui.js?v=onzxl"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=onzxl"></script>
+  <script defer src="/src/cookie.js?v=onzxl"></script>
 
   <script>
     setTimeout(function() {

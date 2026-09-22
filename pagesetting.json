@@ -2,7 +2,13 @@
   "data": [
     {
       "path": "page",
-      "name": "Sayfalar",
+      "name": {
+        "tr": "Sayfalar",
+        "en": "Sayfalar",
+        "ar": "Sayfalar",
+        "de": "Sayfalar",
+        "ru": "Sayfalar"
+      },
       "index": 0,
       "desing": {
         "footer": [],
@@ -19,7 +25,13 @@
     },
     {
       "path": "service",
-      "name": "Hizmetler",
+      "name": {
+        "tr": "Hizmetler",
+        "en": "Hizmetler",
+        "ar": "Hizmetler",
+        "de": "Hizmetler",
+        "ru": "Hizmetler"
+      },
       "index": 1,
       "desing": {
         "footer": [],

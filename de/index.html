@@ -28,18 +28,15 @@
   <link rel="preload" href="/src/fonts/rubik/rubik-latin-500-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/rubik/rubik-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin />
 
-  <link rel="stylesheet" href="/src/rubik.css" />
-  <link rel="stylesheet" href="/src/css.css?v=vggde" />
-  <link rel="stylesheet" href="/src/mx-ui.css?v=vggde" />
-  <link rel="preload" href="/src/cookie.css?v=vggde" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <link rel="preload" href="/src/swiper-bundle.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <link rel="preload" href="/src/material-symbols-outlined.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <noscript>
-    <link rel="stylesheet" href="/src/cookie.css?v=vggde" />
-    <link rel="stylesheet" href="/src/swiper-bundle.min.css" />
-    <link rel="stylesheet" href="/src/material-symbols-outlined.css" />
-  </noscript>
-  <link rel="shortcut icon" href="/img/icon.png?v=vggde" type="image/png" />
+  <link rel="stylesheet" href="/src/rubik.css?v=id7da" />
+  <link rel="stylesheet" href="/src/css.css?v=id7da" />
+  <link rel="stylesheet" href="/src/mx-ui.css?v=id7da" />
+  <link rel="preload" href="/src/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=id7da" />
+  
+  <link rel="stylesheet" href="/src/cookie.css?v=id7da" />
+  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=id7da" />
+  <link rel="shortcut icon" href="/img/icon.png?v=id7da" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
@@ -64,14 +61,31 @@
   
 <link rel="manifest" href="/manifest.json">
 <meta name="theme-color" content="#2196f3">
-<link rel="stylesheet" href="style.css?v=vggde">
+<link rel="stylesheet" href="style.css?v=id7da">
 </head>
 
 <body>
+  <script>
+    (function () {
+      window.user = window.user || { id: null, email: null, name: null, isLoggedIn: false, loginMethod: null };
+      var emptySnapshot = { empty: true, forEach: function () {} };
+      var emptyDoc = { exists: false, data: function () { return null; } };
+      if (typeof window.dataAddWeb !== "function") window.dataAddWeb = function () { return Promise.resolve(); };
+      if (typeof window.dataDeleteWeb !== "function") window.dataDeleteWeb = function () { return Promise.resolve(); };
+      if (typeof window.dataUpdateWeb !== "function") window.dataUpdateWeb = function () { return Promise.resolve(); };
+      if (typeof window.dataGetWeb !== "function") window.dataGetWeb = function () { return Promise.resolve(emptyDoc); };
+      if (typeof window.dataListWeb !== "function") window.dataListWeb = function () { return Promise.resolve(emptySnapshot); };
+      if (typeof window.authStateListenerWeb !== "function") {
+        window.authStateListenerWeb = function (cb) {
+          if (typeof cb === "function") setTimeout(function () { cb(null); }, 0);
+        };
+      }
+    })();
+  </script>
   <div id="header"><div class="h0000">
 
   <div class="h0000body">
-    <a href="/de/"><img src="/img/logo.svg?v=jtvvz" class="h0000-logo" alt="Avd Company Logo" loading="lazy" /></a>
+    <a href="/de/"><img src="/img/logo.svg?v=i8337" class="h0000-logo" alt="Avd Company Logo" loading="lazy" /></a>
 
 
     <div class="h0000right">
@@ -82,26 +96,26 @@
       </div>
       <div class="h0000contactlist">
     <a href="tel:+90 342 221 00 02" class="mobil-closed" target="_blank" rel="noopener noreferrer">
-     <div class="material-symbols-outlined h0000-icon">phone</div>
+     <div class="material-symbols-outlined h0000-icon" style="color:#000">phone</div>
      <div>
       <div  class="h0000-title"></div>
-      <div  class="h0000-spot">+90 342 221 00 02</div>
+      <div  class="h0000-spot" style="color:#000">+90 342 221 00 02</div>
      </div>
     </a>
     
     <a href="mailto:info@avdcompany.com" class="mobil-closed" target="_blank" rel="noopener noreferrer">
-     <div class="material-symbols-outlined h0000-icon">phone</div>
+     <div class="material-symbols-outlined h0000-icon" style="color:#000">phone</div>
      <div>
       <div  class="h0000-title"></div>
-      <div  class="h0000-spot">info@avdcompany.com</div>
+      <div  class="h0000-spot" style="color:#000">info@avdcompany.com</div>
      </div>
     </a>
     
     <a href="https://www.google.com/maps/place/%C3%87ay%C4%B1rl%C4%B1+%C4%B0%C5%9F+Merkezi/@37.065655,37.372322,15z/data=!4m5!3m4!1s0x0:0xed504e1f7c58c672!8m2!3d37.0656466!4d37.3723193?shorturl=1" class="mobil-closed" target="_blank" rel="noopener noreferrer">
-     <div class="material-symbols-outlined h0000-icon">phone</div>
+     <div class="material-symbols-outlined h0000-icon" style="color:#000">phone</div>
      <div>
       <div  class="h0000-title"></div>
-      <div  class="h0000-spot">Çayırlı İş Mrk. B Blok Kat:6 No:22 Gaziantep</div>
+      <div  class="h0000-spot" style="color:#000">Çayırlı İş Mrk. B Blok Kat:6 No:22 Gaziantep</div>
      </div>
     </a>
     </div>
@@ -171,26 +185,26 @@
         </div>
         <div class="h0000menudrawer-contactlist">
     <a href="tel:+90 342 221 00 02" class="mobil-closed" target="_blank" rel="noopener noreferrer">
-     <div class="material-symbols-outlined h0000-icon">phone</div>
+     <div class="material-symbols-outlined h0000-icon" style="color:#000">phone</div>
      <div>
       <div  class="h0000-title"></div>
-      <div  class="h0000-spot">+90 342 221 00 02</div>
+      <div  class="h0000-spot" style="color:#000">+90 342 221 00 02</div>
      </div>
     </a>
     
     <a href="mailto:info@avdcompany.com" class="mobil-closed" target="_blank" rel="noopener noreferrer">
-     <div class="material-symbols-outlined h0000-icon">phone</div>
+     <div class="material-symbols-outlined h0000-icon" style="color:#000">phone</div>
      <div>
       <div  class="h0000-title"></div>
-      <div  class="h0000-spot">info@avdcompany.com</div>
+      <div  class="h0000-spot" style="color:#000">info@avdcompany.com</div>
      </div>
     </a>
     
     <a href="https://www.google.com/maps/place/%C3%87ay%C4%B1rl%C4%B1+%C4%B0%C5%9F+Merkezi/@37.065655,37.372322,15z/data=!4m5!3m4!1s0x0:0xed504e1f7c58c672!8m2!3d37.0656466!4d37.3723193?shorturl=1" class="mobil-closed" target="_blank" rel="noopener noreferrer">
-     <div class="material-symbols-outlined h0000-icon">phone</div>
+     <div class="material-symbols-outlined h0000-icon" style="color:#000">phone</div>
      <div>
       <div  class="h0000-title"></div>
-      <div  class="h0000-spot">Çayırlı İş Mrk. B Blok Kat:6 No:22 Gaziantep</div>
+      <div  class="h0000-spot" style="color:#000">Çayırlı İş Mrk. B Blok Kat:6 No:22 Gaziantep</div>
      </div>
     </a>
     </div>
@@ -326,7 +340,7 @@
     }, { passive: true });
   }, 100);
 </script><div class="swiper-container h0001">
-  <div class="swiper-wrapper" id="h0001"><div class="swiper-slide"><img src="/img/wd0v5z/a.jpg?v=1783520758678" alt="Avd Company"  loading="lazy"/></div><div class="swiper-slide"><img src="/img/wd0v5z/b.jpg?v=1783520758678" alt="Avd Company"  loading="lazy"/></div><div class="swiper-slide"><img src="/img/wd0v5z/c.jpg?v=1783520758678" alt="Avd Company"  loading="lazy"/></div></div>
+  <div class="swiper-wrapper" id="h0001"><div class="swiper-slide"><img src="/img/wd0v5z/a.jpg?v=1790060485571" alt="Avd Company"  loading="lazy"/></div><div class="swiper-slide"><img src="/img/wd0v5z/b.jpg?v=1790060485571" alt="Avd Company"  loading="lazy"/></div><div class="swiper-slide"><img src="/img/wd0v5z/c.jpg?v=1790060485571" alt="Avd Company"  loading="lazy"/></div></div>
   <div class="swiper-button-next"></div>
   <div class="swiper-button-prev"></div>
   <div class="swiper-pagination"></div>
@@ -431,7 +445,7 @@
   <div class="swiper-button-prev swiper-button-prev-b0000"></div>
 </div>
 
-<script> setTimeout(() => {
+<script> setTimeout(function() {
   (function pageSliderInit() {
     var attempts = 0;
     var maxAttempts = 20;
@@ -473,7 +487,7 @@
   <div class="b0001">
     <div class="b0001-left">
       <img
-        src="/img/uzvrd9/index.jpg?v=ezmhl"
+        src="/img/uzvrd9/index.jpg?v=n06nk"
         class="b0001-left-img"
         alt=""
        loading="lazy"/>
@@ -572,7 +586,7 @@
   </div>
 </div>
 
-<script> setTimeout(() => {
+<script> setTimeout(function() {
   var swiper = new Swiper(".b0002", {
     slidesPerView: 2,
     simulateTouch: true,
@@ -610,6 +624,8 @@
         src="/img/uusn3o/video.mp4"
         type="video/mp4"
         controls
+        playsinline
+        preload="metadata"
       ></video>
     </div>
   </div>
@@ -673,7 +689,7 @@
   </div>
 </div>
 
-<script> setTimeout(() => {
+<script> setTimeout(function() {
   var swiper = new Swiper(".b0004", {
     slidesPerView: 2,
     simulateTouch: true,
@@ -744,16 +760,16 @@
     <ul class="menu">
       <li class="menu__item"><a class="menu__link" href="/de/">Startseite</a></li><li class="menu__item"><a class="menu__link" href="/de/hakkimizda/">Über uns</a></li><li class="menu__item"><a class="menu__link" href="/de/misyonumuz-vizyonumuz/">Unsere Mission und Vision</a></li><li class="menu__item"><a class="menu__link" href="/de/kalite-politikamiz/">Unsere Qualitätspolitik</a></li><li class="menu__item"><a class="menu__link" href="/de/degerlerimiz/">Unsere Werte</a></li><li class="menu__item"><a class="menu__link" href="/de/cerez-politikasi/">Cookie-Richtlinie</a></li><li class="menu__item"><a class="menu__link" href="/de/yasal-uyari/">Rechtliche Warnung</a></li><li class="menu__item"><a class="menu__link" href="/de/kisisel-veriler/">Persönliche Daten</a></li><li class="menu__item"><a class="menu__link" href="/de/kurumsal/">Institutionell</a></li><li class="menu__item"><a class="menu__link" href="/de/hizmetlerimiz/">Unsere Dienstleistungen</a></li><li class="menu__item"><a class="menu__link" href="/de/insan-kaynaklari/">Personalwesen</a></li><li class="menu__item"><a class="menu__link" href="/de/iletisim/">Kommunikation</a></li>
     </ul>
-    <p>Avd Company 2025 cognite. &copy;</p>
+    <p>Avd Company 2026 cognite. &copy;</p>
   </footer>
   </div>
 
   
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer src="/src/mx-ui.js?v=vggde"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=vggde"></script>
-  <script defer src="/src/cookie.js?v=vggde"></script>
+  <script defer src="/src/mx-ui.js?v=id7da"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=id7da"></script>
+  <script defer src="/src/cookie.js?v=id7da"></script>
 
   <script>
     setTimeout(function() {
