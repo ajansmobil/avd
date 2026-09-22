@@ -90,7 +90,8 @@
   
   .h0000-logo[src*=".svg"] {
     height: 60px;
-    width: auto;
+    width: 300px;
+    object-fit: contain;
   }
 
   .h0000body {
