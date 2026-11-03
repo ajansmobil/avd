@@ -1,0 +1,83 @@
+{
+  "name": {
+    "tr": "Kurumsal",
+    "en": "Corporate",
+    "ar": "الشركة",
+    "de": "",
+    "ru": ""
+  },
+  "path": "kurumsal",
+  "desc": [],
+  "data": [
+    {
+      "id": "gizlilikpolitikasi",
+      "name": {
+        "tr": "Gizlilik Politikası",
+        "en": "Privacy Policy",
+        "ar": "سياسة الخصوصية",
+        "de": "Datenschutzrichtlinie",
+        "ru": "Политика конфиденциальности"
+      },
+      "description": {
+        "tr": "Bu Gizlilik Politikası, Avd Company tarafından işletilen avdcompany.com internet sitesini ziyaret ettiğinizde ve hizmetlerimizi kullandığınızda…",
+        "en": "How your information is collected, used, shared and protected when you visit this website and use our services.",
+        "ar": "كيف تُجمع معلوماتكم وتُستخدم وتُشارك وتُحمى عند زيارة هذا الموقع واستخدام خدماتنا.",
+        "de": "Wie Ihre Informationen erhoben, verwendet, weitergegeben und geschützt werden, wenn Sie diese Website besuchen und unsere Dienstleistungen nutzen.",
+        "ru": "Как собирается, используется, передаётся и защищается ваша информация при посещении этого сайта и использовании наших услуг."
+      },
+      "path": "gizlilikpolitikasi",
+      "icon": "privacy_tip",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "nqvo32"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "id": "kullanicahaklari",
+      "name": {
+        "tr": "Kullanıcı Hakları",
+        "en": "User Rights",
+        "ar": "حقوق المستخدم",
+        "de": "Nutzerrechte",
+        "ru": "Права пользователей"
+      },
+      "description": {
+        "tr": "avdcompany.com internet sitesini kullanan herkes, yürürlükteki mevzuattan doğan haklara sahiptir. Bu sayfa, Avd Company ile ilişkinizde başlıca…",
+        "en": "A summary of your rights concerning personal data, consumer protection and commercial electronic messages, and how to exercise them.",
+        "ar": "ملخص لحقوقكم المتعلقة بالبيانات الشخصية وحماية المستهلك والرسائل الإلكترونية التجارية وكيفية ممارستها.",
+        "de": "Eine Zusammenfassung Ihrer Rechte in Bezug auf personenbezogene Daten, Verbraucherschutz und kommerzielle elektronische Nachrichten sowie deren Ausübung.",
+        "ru": "Краткий обзор ваших прав в отношении персональных данных, защиты прав потребителей и коммерческих электронных сообщений, а также способов их осуществления."
+      },
+      "path": "kullanicahaklari",
+      "icon": "gavel",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "nqvo32"
+        ],
+        "footer": []
+      },
+      "index": 1
+    }
+  ],
+  "index": 2,
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "page": true,
+    "body": true,
+    "detail": true,
+    "img": false
+  }
+}

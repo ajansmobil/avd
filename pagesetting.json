@@ -141,6 +141,31 @@
           "status": "play"
         }
       ]
+    },
+    {
+      "name": {
+        "tr": "Kurumsal",
+        "en": "Corporate",
+        "ar": "الشركة",
+        "de": "",
+        "ru": ""
+      },
+      "path": "kurumsal",
+      "desc": [],
+      "data": [],
+      "index": 2,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "modulestatus": {
+        "page": true,
+        "body": true,
+        "detail": true,
+        "img": false
+      },
+      "active": true
     }
   ]
 }

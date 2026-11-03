@@ -1,0 +1,30 @@
+# Avd Company
+
+> AVD Company olarak 25 yılı aşkın deneyimimizle ithalat, ihracat, danışmanlık ve lojistik alanlarında profesyonel hizmet sunuyoruz. Orta Doğu, Avrupa, Türkiye Cumhuriyetleri ve Rusya'da güçlü altyapımızla, firmaların uluslararası ticarette başarılı olmalarını sağlıyoruz. Şeffaf ve sonuç odaklı çözümlerimizle ticaret süreçlerinizi en düşük maliyetle yönetiyoruz.
+
+Web: https://avdcompany.com/tr/ · Diller: tr, en, ar, de, ru (varsayilan: tr)
+
+## Sayfalar
+- [Avd Company](https://avdcompany.com/tr/): AVD Company olarak 25 yılı aşkın deneyimimizle ithalat, ihracat, danışmanlık ve lojistik alanlarında profesyonel hizmet sunuyoruz.
+- [Hakkımızda](https://avdcompany.com/tr/hakkimizda/): Hakkımızda sayfası
+- [Misyonumuz & Vizyonumuz](https://avdcompany.com/tr/misyonumuz-vizyonumuz/): Proje AVD'nın geliştirilmesine ve büyümesine katkıda bulunmak için misyonumuz var.
+- [Kalite Politikamız](https://avdcompany.com/tr/kalite-politikamiz/): Kalite Politikamız, güvenilir, verimli, profesyonel, etik, teknolojik
+- [Değerlerimiz](https://avdcompany.com/tr/degerlerimiz/): Değerlerimiz sayfası
+- [Çerez Politikası](https://avdcompany.com/tr/cerez-politikasi/): Çerez Politikası sayfası
+- [Yasal Uyarı](https://avdcompany.com/tr/yasal-uyari/): Kişisel Veriler sayfası
+- [Kişisel Veriler](https://avdcompany.com/tr/kisisel-veriler/): Kişisel Veriler sayfası
+- [Kurumsal](https://avdcompany.com/tr/kurumsal/): AVD Company olarak 25 yıldır profesyonel personel kadromuz ile ithalat, ihracat, danışmanlık, lojistik ve transit ticaret alanlarında hizmet sunmaktan onur duyuyoruz.
+- [Hizmetlerimiz](https://avdcompany.com/tr/hizmetlerimiz/): AVD Company, 25 yıllık tecrübesi ile ithalat, ihracat, danışmanlık, lojistik ve transit ticaret hizmetleri sunmaktadır.
+- [İnsan Kaynakları](https://avdcompany.com/tr/insan-kaynaklari/): AVD, İnsan Kaynakları yönetimini ve çalışanlarının işten çıkarmayı kolaylaştıran hizmetleri sunuyor.
+- [İletişim](https://avdcompany.com/tr/iletisim/): İletişim sayfası
+- [İthalat](https://avdcompany.com/tr/ithalat/): İthalat, ihracat, ticari danışmanlık ve lojistik hizmetleri sunuyoruz.
+- [İhracat](https://avdcompany.com/tr/ihracat/): Transit ticaret, uluslararası alanlarda mahsulotlarin alinip satilmasi süreci.
+- [Transit Ticaret](https://avdcompany.com/tr/transit-ticaret/): Transit ticaret, lojistik hizmetleri
+- [Lojistik](https://avdcompany.com/tr/lojistik/): Transit ticaret, uluslararası alanlarda mahsulotlarin alinip satilmasi süreci.
+- [Danışmanlık](https://avdcompany.com/tr/danismanlik/): İthalat, ihracat, lojistik, transit ticaret için yönlendiren ve destekleyen danışmanlık.
+- [Gizlilik Politikası](https://avdcompany.com/tr/gizlilikpolitikasi/): Bu Gizlilik Politikası, Avd Company tarafından işletilen avdcompany.com internet sitesini ziyaret ettiğinizde ve hizmetlerimizi kullandığınızda…
+- [Kullanıcı Hakları](https://avdcompany.com/tr/kullanicahaklari/): avdcompany.com internet sitesini kullanan herkes, yürürlükteki mevzuattan doğan haklara sahiptir.
+
+## Diger
+- [sitemap.xml](https://avdcompany.com/sitemap.xml): tum URL listesi
+- [llms-full.txt](https://avdcompany.com/llms-full.txt): sayfa govdeleri duz metin
